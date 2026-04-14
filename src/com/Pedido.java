@@ -1,3 +1,5 @@
+package com;
+
 public class Pedido {
 
     private String cliente;

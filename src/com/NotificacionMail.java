@@ -1,3 +1,4 @@
+package com;
 public class NotificacionMail {
 
     public void enviarMail(String correo, String mensaje){
